@@ -154,7 +154,7 @@ c.completion.scrollbar.width = 0
 # hints
 c.hints.border = 'none'
 c.hints.chars = 'asdfghjkl'
-c.hints.scatter = False
+c.hints.scatter = True
 c.hints.uppercase = True
 
 # history
