@@ -1,3 +1,7 @@
+# vim swap file
+.swp
+
+# future submodules
 dwm
 dmenu
 st
