@@ -1,3 +1,6 @@
 [submodule "dwm"]
 	path = dwm
 	url = git@github.com:oruuke/dwm.git
+[submodule "dmenu"]
+	path = dmenu
+	url = git@github.com:oruuke/dmenu.git
