@@ -194,33 +194,36 @@ config.bind('<Ctrl-Up>', 'tab-move -')
 c.colors.webpage.darkmode.enabled = True
 
 # primary colour theming
-#pri-trans = '#FF5CE11F'
-#pri-fair = '#FFAFFF'
-#pri-light = '#FF5CE1'
-#pri-dark = '#B55088'
+#pink0 = '#FF5CE11F'
+#pink1 = '#FFAFFF'
+#pink2 = '#DC8BB2'
+#pink3 = '#B55088'
+#pink4 = '#3F2732'
+#pink5 = '#1D1018'
 
 # secondary colour theming
-
-# tertiary colour theming
+#cyan1 = '#99CCCC'
+#cyan2 = '#007F7F'
+#cyan3 = '#004C4C'
 
 # colour assignment
 c.colors.completion.even.bg = '#007F7F'
 c.colors.completion.odd.bg = '#004C4C'
-c.colors.completion.item.selected.bg = '#FF5CE1'
-c.colors.completion.item.selected.border.bottom = '#FF5CE1'
-c.colors.completion.item.selected.border.top = '#FF5CE1'
+c.colors.completion.item.selected.bg = '#DC8BB2'
+c.colors.completion.item.selected.border.bottom = '#DC8BB2'
+c.colors.completion.item.selected.border.top = '#DC8BB2'
 c.colors.completion.category.bg = '#B55088'
 c.colors.completion.category.border.bottom = '#B55088'
 c.colors.completion.category.border.top = '#B55088'
-c.colors.completion.match.fg = '#FF5CE1'
-c.colors.statusbar.normal.bg = '#B55088'
+c.colors.completion.match.fg = '#DC8BB2'
+c.colors.statusbar.normal.bg = '#3F2732'
 c.colors.statusbar.command.bg = 'white'
 c.colors.statusbar.command.fg = '#004C4C'
-c.colors.tabs.bar.bg = '#B55088'
+c.colors.tabs.bar.bg = '#3F2732'
 c.colors.tabs.even.bg = '#007F7F'
 c.colors.tabs.odd.bg = '#004C4C'
-c.colors.tabs.selected.even.bg = '#FF5CE1'
-c.colors.tabs.selected.odd.bg = '#FF5CE1'
+c.colors.tabs.selected.even.bg = '#DC8BB2'
+c.colors.tabs.selected.odd.bg = '#DC8BB2'
 c.colors.webpage.preferred_color_scheme = 'dark'
 c.colors.hints.bg = '#B55088'
 c.colors.hints.fg = 'white'
