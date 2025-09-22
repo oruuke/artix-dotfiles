@@ -9,3 +9,4 @@
 # alias grep='grep --color=auto'
 # PS1='[\u@\h \W]\$ '
 alias v='nvim'
+alias startp='picom -b --config ~/.config/picom.conf &'
